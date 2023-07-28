@@ -1,0 +1,14 @@
+#b4 {
+    background-color: rgba(63, 151, 252, 0.842);
+    border-color: transparent;
+    margin: 20px;
+  }
+  #d1{
+    margin: 50px;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  h2{
+    text-align: center;
+  }
